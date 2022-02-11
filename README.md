@@ -1,6 +1,6 @@
 # QR component
 
-> This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
+> This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
 ![screenshot](./images/screenshot.png)
 
@@ -13,7 +13,7 @@ I created it to improve my frontend skills 😃
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://tomekswitecki.github.io/stats-card-component/)
 
 ## Authors
 
@@ -21,7 +21,8 @@ I created it to improve my frontend skills 😃
 
 - GitHub: [@TomekSwitecki](https://github.com/TomekSwitecki)
 - Twitter: [@COCOstudio9](https://twitter.com/COCOstudio9)
-
+- Dribble: [Tomek Świtecki](https://dribbble.com/Switecki)
+- Frontend Mentor: [@TomekSwitecki](https://www.frontendmentor.io/profile/TomekSwitecki)
 
 ## 🤝 Contributing
 
